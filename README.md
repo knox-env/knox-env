@@ -60,7 +60,7 @@ I prefer practical tools over unnecessary complexity. Every project is designed 
 <div align="center">
 
 <a href="https://github.com/knox-env/primesec-recon">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=knox-env&repo=primesec-recon&theme=chartreuse-dark&bg_color=000000&title_color=8B0000&text_color=ffffff&border_color=8B0000" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=knox-env&repo=primesec-recon&theme=chartreuse-dark&bg_color=000000&title_color=8B0000&text_color=ffffff&border_color=8B0000" />
 
 </a>
 
