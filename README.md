@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=4500&pause=1800&color=8B0000&center=true&vCenter=true&width=700&lines=Kи0X+ᛋ¹³³⁷†+ツ;Founder+//+PrimeSec;Recon+Engineering;Offensive+Security+Research" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=4500&pause=1800&color=8B0000&center=true&vCenter=true&width=700&lines=K%D0%B80X+%E1%9B%8B%C2%B9%C2%B3%C2%B3%E2%81%B7%E2%80%A0+%E3%83%84;Founder+%2F%2F+PrimeSec;Recon+Engineering;Offensive+Security+Research"/>
 
 <br>
 
