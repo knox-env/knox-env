@@ -1,3 +1,5 @@
+<div align="center">
+
 ```
 ██╗  ██╗███╗   ██╗ ██████╗ ██╗  ██╗██████╗
 ██║ ██╔╝████╗  ██║██╔═████╗╚██╗██╔╝██╔══██╗
@@ -7,7 +9,13 @@
 ╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
 ```
 
+</div>
+
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1200&color=7F77DD&center=true&vCenter=true&width=600&lines=Security+Researcher+%2F+Owner+%40+PrimeSec;Recon+Specialist+%2F+OSINT+Operator;Zero+footprint.+Zero+trace.)](https://primesec.best)
+
+</div>
 
 ---
 
