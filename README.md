@@ -58,7 +58,7 @@
 ## `// stats`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kn0xr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7f77dd&icon_color=7f77dd&text_color=c9d1d9" />
+  <img src="https://github-stats-extended.vercel.app/api?username=kn0xr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7f77dd&icon_color=7f77dd&text_color=c9d1d9" />
 </div>
 
 ---
